@@ -1,0 +1,7 @@
+*.csv
+images/
+QGIS/
+results/
+*.zip
+*.qmd
+*.pdf
